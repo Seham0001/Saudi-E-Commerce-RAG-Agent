@@ -26,9 +26,6 @@ The project focuses on applying modern NLP techniques in a **practical, real-wor
 * **Tavily Search API** (for information retrieval)
 * **LangChain / LLM orchestration concepts**
 
-> Note: API keys are **not included** in this repository for security reasons.
-
----
 
 ## Project Structure
 
@@ -82,16 +79,4 @@ This approach reduces hallucinations and improves response accuracy compared to 
 * LLM-based system design
 * Practical AI solution development
 
----
 
-## Disclaimer
-
-This project is for **educational and portfolio purposes**. API keys and sensitive credentials are intentionally excluded.
-
----
-
-## Author
-
-Seham Bin Tayeb
-
-If you have questions or suggestions, feel free to reach out or open an issue.
