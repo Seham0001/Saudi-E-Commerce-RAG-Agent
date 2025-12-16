@@ -47,21 +47,7 @@ saudi-ecommerce-rag-agent/
 
 This approach reduces hallucinations and improves response accuracy compared to using an LLM alone.
 
----
 
-## How to Run the Notebook
-
-1. Clone the repository
-2. Open the notebook using Jupyter Notebook or JupyterLab
-3. Install required dependencies (if not already installed)
-4. Add your API key as an environment variable:
-
-   ```python
-   os.environ["TAVILY_API_KEY"] = "YOUR_API_KEY_HERE"
-   ```
-5. Run the notebook cells sequentially
-
----
 
 ## Use Case
 
